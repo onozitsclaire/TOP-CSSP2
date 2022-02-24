@@ -1,0 +1,17 @@
+/* styles.css */
+
+p {
+    background-color: #ff9cd9;
+    font-family: Verdana, DejaVu-Sans, sans-serif;
+}
+
+#numbertwo {
+    color: #44799e;
+    font-size: 36px;
+}
+
+ #numberfour {
+    background-color: #18ed71;
+    font-size: 24px;
+    font-weight: bold;
+}
